@@ -1,0 +1,21 @@
+To run a machine learning code, you just need:  
+
+1. Jupyter Notebook (for running Python code interactively)  
+   - Install it using:  
+     ```bash
+     pip install jupyterlab
+     ```
+   - Run it using:  
+     ```bash
+     jupyter notebook
+     ```
+
+2. Dataset Requirements  
+   - Ensure you have a dataset in formats like **CSV, JSON, Excel, or Image files**.  
+   - Example: If using a CSV file, load it in Jupyter with:  
+     ```python
+     import pandas as pd
+     df = pd.read_csv("your_dataset.csv")
+     ```
+
+That's all you need to run ML code! 🚀
