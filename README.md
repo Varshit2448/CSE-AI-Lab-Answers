@@ -2,7 +2,7 @@ Here’s a **README.md** file that provides a brief explanation of all the progr
 
 ---
 
-# AI & Machine Learning Programs  
+# ARTIFICIAL INTELLIGENCE LABORATORY 
 
 This repository contains various AI and machine learning programs implemented for different tasks such as unification, resolution-based inference, SVM-based image classification, fuzzy control systems, and early image processing techniques.  
 
